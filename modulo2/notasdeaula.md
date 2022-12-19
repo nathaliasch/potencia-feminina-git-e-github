@@ -10,3 +10,5 @@ Nesta aula estamos aprendendo comandos bem legais e úteis.
 
 ### git add caminho_do_arquivo
 ** vai adicionar um arquivo em específico
+
+### git commit
